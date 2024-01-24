@@ -23,4 +23,4 @@
 ## Milestones
 
 - 2023.12.23-2024.1.24: Finished v1.0 PCB
-- ⚒️2024.1.24-now: Verifying v1.0 PCB
+- 2024.1.24-now: Verifying v1.0 PCB⚒️
