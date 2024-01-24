@@ -15,7 +15,7 @@
 
 - 2*USB3.0 A
 - 1*Gigabit Ethernet
-- 1*TF Card slot
+- 1*TF Card Slot
 - 1*Serial Port with 3.3V power supply(Isolated)
 
 > One USB A output and the serial port share a downstream port. You can toggle them via a switch.
