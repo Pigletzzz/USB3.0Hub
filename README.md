@@ -6,19 +6,19 @@
 
 ## Interfaces
 
-Input: 
+**Input**: 
 
 - 1*USB3.0 A
-- 1*TypeC(Power)
+- 1*TypeC(2A Power)
 
-Output:
+**Output**:
 
 - 2*USB3.0 A
 - 1*Gigabit Ethernet
 - 1*TF Card slot
-- 1*Serial Port with 3.3V power supply(isoluted)
+- 1*Serial Port with 3.3V power supply(Isolated)
 
-> A USB A output and the serial share a downstream port. You can toggle them via a switch.
+> One USB A output and the serial port share a downstream port. You can toggle them via a switch.
 
 ## Milestones
 
